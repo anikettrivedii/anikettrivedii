@@ -1,60 +1,22 @@
-### Hi there, I'm Aniket! 👋
+### Hi there, I'm Aniket! 👋  
 
 🚀 **Aspiring Data Engineer | Cloud • ETL • Python • SQL**  
 🎓 **B.Tech in Computer Science (AI) — KIET, Delhi-NCR**  
-🔍 Passionate about building cloud-native data pipelines and analytics solutions.
+💡 Building clean, scalable, cloud-native data pipelines and analytical systems.
 
 ---
 
 ## 👨‍💻 About Me  
-I specialize in designing and automating **end-to-end data pipelines**, transforming raw datasets into structured, analytics-ready insights.  
-My experience spans across **Microsoft Fabric**, **AWS**, and **Azure**, with strong skills in Python, SQL, ETL workflows, and dashboard development.
+I specialize in designing and automating **end-to-end data pipelines**—turning raw, scattered data into structured, analytics-ready insights.  
 
-I focus on:
+My experience spans across **Microsoft Fabric**, **AWS**, and **Azure**, focusing on:  
 - Cloud-based data engineering  
-- ETL orchestration & optimization  
+- ETL orchestration & workflow optimization  
 - API-driven data ingestion  
 - Analytical reporting using Power BI  
 - Large-scale data processing (PySpark / Spark)  
 
----
-
-## 🔧 Technical Skills  
-- **Programming:** Python, SQL  
-- **Cloud Platforms:** Microsoft Fabric, AWS (S3, Glue, Lambda, Athena), Azure (ADF, ADLS Gen2, Databricks, Synapse)  
-- **Data Engineering:** ETL workflows, Data Ingestion, Transformations, Modeling, API Integration  
-- **Analytics & BI:** Power BI, EDA, Dashboard Development  
-- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
-
----
-
-## 🚀 Projects (Cloud • Data Engineering)
-
-### 🌍 End-to-End Earthquake Data Pipeline (Microsoft Fabric)
-Built a production-like pipeline ingesting **15M+ records** from the USGS API into Fabric Lakehouse.  
-- Automated ingestion workflows  
-- Spark-based ETL (6 hours ➝ <10 minutes)  
-- Power BI dashboard with global trends & magnitude insights  
-🔗 **Repo:** https://github.com/anikettrivedii/End-to-End-Earthquake-Data-Pipeline-using-Microsoft-Fabric  
-
----
-
-### 🎬 YouTube Data Engineering Pipeline (AWS — Public)
-Serverless architecture handling **1.2M+ YouTube records**.  
-- Lambda + S3 + Glue ingestion  
-- PySpark transformations (35% size reduction)  
-- Athena SQL with 2.5× performance boost  
-🔗 **Repo:** https://github.com/anikettrivedii/YouTube-Data-Engineering-Pipeline-using-AWS  
-
----
-
-### 🏅 Olympic Data Pipeline (Azure)
-Processed **500M+ Olympic records** using scalable Azure services.  
-- ADF pipelines with schema drift  
-- Databricks + Delta Lake processing  
-- Synapse SQL views powering 5+ reports  
-🔗 **Repo:** https://github.com/anikettrivedii/Azure-OlympicDataEngineeringPipeline  
+I care deeply about **clarity, reliability, and performance** in data systems.
 
 ---
 
@@ -73,13 +35,6 @@ Processed **500M+ Olympic records** using scalable Azure services.
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced Fabric Lakehouse architecture  
-- Data modeling & optimization  
-- CI/CD for data engineering  
-
----
-
 ## 📫 Connect With Me  
 - **LinkedIn:** https://www.linkedin.com/in/aniket-790356256/  
 - **GitHub:** https://github.com/anikettrivedii  
@@ -88,4 +43,4 @@ Processed **500M+ Olympic records** using scalable Azure services.
 
 ---
 
-⭐ _Thanks for visiting! Explore my repositories to see real-world cloud data engineering in action._ 🚀
+⭐ _Thanks for visiting! Always exploring, building, and refining data systems that scale._  
