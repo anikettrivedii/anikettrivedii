@@ -1,61 +1,91 @@
 ### Hi there, I'm Aniket! 👋
 
-🚀 **AI & Data Analytics Enthusiast | B.Tech in Artificial Intelligence (KIET, Delhi-NCR)**  
-📊 **Turning Data into Actionable Insights | Passionate about Real-World Problem Solving**
+🚀 **Aspiring Data Engineer | Cloud • ETL • Python • SQL**  
+🎓 **B.Tech in Computer Science (AI) — KIET, Delhi-NCR**  
+🔍 Passionate about building cloud-native data pipelines and analytics solutions.
 
 ---
 
-#### 👨‍💻 About Me
-- 🎓 Pursuing B.Tech in Computer Science with specialization in Artificial Intelligence
-- 📚 Completed Google Data Analytics Certification & "AI For Everyone"
-- 🔥 Skilled in Python, Machine Learning, SQL, Power BI, Tableau, and Data Visualization
-- 🏆 Hackathon Finalist (Top-10 in 2+ events), solving problems with ML & analytics
-- 🏸 District-Level Athlete (Cricket & Badminton), blending strategy with teamwork
+## 👨‍💻 About Me  
+I specialize in designing and automating **end-to-end data pipelines**, transforming raw datasets into structured, analytics-ready insights.  
+My experience spans across **Microsoft Fabric**, **AWS**, and **Azure**, with strong skills in Python, SQL, ETL workflows, and dashboard development.
+
+I focus on:
+- Cloud-based data engineering  
+- ETL orchestration & optimization  
+- API-driven data ingestion  
+- Analytical reporting using Power BI  
+- Large-scale data processing (PySpark / Spark)  
 
 ---
 
-#### 🔥 Technical Skills
-- **Languages:** Python, C, C++, SQL, NoSQL, XML  
-- **Machine Learning:** Regression, Classification, Clustering (K-Means, DBSCAN), Trees, XGBoost, SVM  
-- **Python Libraries:** Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, TensorFlow (basics), Statsmodels  
-- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Tools:** VS Code, Jupyter, PyCharm, Git
+## 🔧 Technical Skills  
+- **Programming:** Python, SQL  
+- **Cloud Platforms:** Microsoft Fabric, AWS (S3, Glue, Lambda, Athena), Azure (ADF, ADLS Gen2, Databricks, Synapse)  
+- **Data Engineering:** ETL workflows, Data Ingestion, Transformations, Modeling, API Integration  
+- **Analytics & BI:** Power BI, EDA, Dashboard Development  
+- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
 
 ---
 
-#### 🚀 Highlight Projects
+## 🚀 Projects (Cloud • Data Engineering)
 
-- 🔥 **Customer Segmentation & Marketing Analytics**  
-  Clustering 10,000+ customers using K-Means & PCA, boosting marketing conversion by 15%  
-  _Tech:_ Python, K-Means, PCA, Seaborn, Tableau
-
-- 📈 **Automated Stock Tracker in Python**  
-  Automated stock tracking across 10+ sites, reducing manual work by 90%  
-  _Tech:_ Python, BeautifulSoup, Pandas, Excel
-
-- 🧑‍💼 **HR Data Analytics Dashboard**  
-  Built Power BI dashboards to monitor attendance, performance & attrition trends (cut churn by 15%)  
-  _Tech:_ Power BI, SQL, Excel
+### 🌍 End-to-End Earthquake Data Pipeline (Microsoft Fabric)
+Built a production-like pipeline ingesting **15M+ records** from the USGS API into Fabric Lakehouse.  
+- Automated ingestion workflows  
+- Spark-based ETL (6 hours ➝ <10 minutes)  
+- Power BI dashboard with global trends & magnitude insights  
+🔗 **Repo:** https://github.com/anikettrivedii/End-to-End-Earthquake-Data-Pipeline-using-Microsoft-Fabric  
 
 ---
 
-#### 🌱 Currently Learning
-- Microsoft Fabric & End-to-End Analytics
-- Advanced Machine Learning & Model Optimization
+### 🎬 YouTube Data Engineering Pipeline (AWS — Public)
+Serverless architecture handling **1.2M+ YouTube records**.  
+- Lambda + S3 + Glue ingestion  
+- PySpark transformations (35% size reduction)  
+- Athena SQL with 2.5× performance boost  
+🔗 **Repo:** https://github.com/anikettrivedii/YouTube-Data-Engineering-Pipeline-using-AWS  
 
 ---
 
-#### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/aniket-trivedi-790356256/)
-- [GitHub](https://github.com/anikettrivedii)
-- [HackerRank](https://www.hackerrank.com/profile/CSEAI22A_0035)
-- [X (Twitter)](https://x.com/Aniket_Trivedi_)
+### 🏅 Olympic Data Pipeline (Azure)
+Processed **500M+ Olympic records** using scalable Azure services.  
+- ADF pipelines with schema drift  
+- Databricks + Delta Lake processing  
+- Synapse SQL views powering 5+ reports  
+🔗 **Repo:** https://github.com/anikettrivedii/Azure-OlympicDataEngineeringPipeline  
 
 ---
 
-#### 🎯 Motto
-**"Leverage technology to create meaningful, real-world impact!"**
+## 🏆 Certifications  
+- **Microsoft Certified: Fabric Data Engineer Associate**  
+  🔗 https://learn.microsoft.com/api/credentials/share/en-us/ANIKET-3401/59F1AB613954E38A  
+
+- **Microsoft Certified: Power BI Data Analyst Associate**  
+  🔗 https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate  
+
+- **Astronomer Certification for Apache Airflow 3 Fundamentals**  
+  🔗 https://www.credly.com/badges/fa2911ac-e165-4ac7-b2fb-bda91eeb7747/public_url  
+
+- **SnowPro Associate: Platform Certification**  
+  🔗 https://achieve.snowflake.com/07812734-5efc-4d15-8ae8-3c8fb0d9c165  
 
 ---
 
-*Feel free to explore my repositories to see my projects in action!* 🚀
+## 🌱 Currently Learning  
+- Advanced Fabric Lakehouse architecture  
+- Data modeling & optimization  
+- CI/CD for data engineering  
+
+---
+
+## 📫 Connect With Me  
+- **LinkedIn:** https://www.linkedin.com/in/aniket-790356256/  
+- **GitHub:** https://github.com/anikettrivedii  
+- **LeetCode:** https://leetcode.com/u/aniket0999/  
+- **X (Twitter):** https://x.com/Aniket_Trivedi_  
+
+---
+
+⭐ _Thanks for visiting! Explore my repositories to see real-world cloud data engineering in action._ 🚀
