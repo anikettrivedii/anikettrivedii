@@ -31,7 +31,10 @@ I care deeply about **clarity, reliability, and performance** in data systems.
   🔗 https://www.credly.com/badges/fa2911ac-e165-4ac7-b2fb-bda91eeb7747/public_url  
 
 - **SnowPro Associate: Platform Certification**  
-  🔗 https://achieve.snowflake.com/07812734-5efc-4d15-8ae8-3c8fb0d9c165  
+  🔗 https://achieve.snowflake.com/07812734-5efc-4d15-8ae8-3c8fb0d9c165
+
+- **Astronomer Certification DAG Authoring for Apache Airflow 3**
+  🔗 https://www.credly.com/badges/3c50a754-9efa-49cf-8d44-be09451db55c/public_url 
 
 ---
 
