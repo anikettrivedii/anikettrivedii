@@ -1,274 +1,151 @@
-<!-- ======================================================= -->
-<!--                    ABOUT ME                             -->
-<!-- ======================================================= -->
+<div align="center">
 
-<h2 align="center">
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
- Engineering Identity
-</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=Aniket%20Trivedi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI-Powered%20Data%20Engineer%20%7C%20Building%20Modern%20Data%20Platforms&descAlignY=60"/>
+
+</div>
 
 <div align="center">
 
-> **Building enterprise-scale data platforms that power analytics, AI, and intelligent decision-making.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=120&lines=AI-Powered+Data+Engineer;Building+Enterprise+Scale+Data+Platforms;Microsoft+Fabric+%7C+Databricks+%7C+Azure+%7C+AWS;Apache+Spark+%7C+PySpark+%7C+Snowflake;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://img.shields.io/badge/B.Tech-CSE(AI)-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
+
+![](https://img.shields.io/badge/Data%20Engineering-Specialist-4F46E5?style=for-the-badge)
+
+![](https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/Gurgaon-India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
 <br>
 
-<table>
+<div align="center">
 
-<tr>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<td width="62%" valign="top">
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## About Me
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-I'm **Aniket Trivedi**, an aspiring **AI-Powered Data Engineer** passionate about designing modern data ecosystems that transform raw information into reliable, scalable, and analytics-ready assets.
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-My engineering interests revolve around **distributed data processing**, **Lakehouse architectures**, **cloud-native ETL pipelines**, **big data systems**, and the intersection of **Artificial Intelligence with Data Engineering**.
+</div>
 
-I enjoy architecting end-to-end data platforms using **Microsoft Fabric**, **Azure**, **AWS**, **Apache Spark**, **PySpark**, and modern cloud technologies while continuously expanding into **Databricks**, **Snowflake**, **dbt**, **Streaming Systems**, and **LLM-powered Data Applications**.
+---
 
-Rather than simply writing code, I enjoy designing systems that are scalable, maintainable, observable, and production-ready.
+<div align="center">
 
-</td>
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED)
 
-<td width="38%" valign="top">
+![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=6D28D9)
 
-### Profile Snapshot
+![](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=4F46E5)
 
-```yaml
-Role:
-  AI Powered Data Engineer
+</div>
 
-Location:
-  Gurgaon, India 🇮🇳
+---
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hmb2hhNXJ5cnkzYW5jMzM4M2JnOGsyYWJkYWF1d2pzbXFhMGFydCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="35"> About Me
 
-Education:
-  B.Tech Computer Science (AI)
+<img align="right" alt="Data Engineering" width="380" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
 
-Experience:
-  Data Engineering
-  Data Analytics
+### Building Modern Data Platforms for the AI Era
 
-Primary Focus:
-  Modern Data Platforms
+I'm **Aniket Trivedi**, an **AI-Powered Data Engineer** passionate about designing scalable, cloud-native data platforms that transform raw data into reliable, analytics-ready assets.
 
-Target:
-  Product-Based Companies
+My primary focus is **Data Engineering**, where I build end-to-end ETL/ELT pipelines, modern Lakehouse architectures, distributed data processing solutions, and business intelligence workflows across **Microsoft Fabric, Azure, AWS, Databricks, Apache Spark, and Snowflake**.
 
-Open To:
-  Full-Time
-  Internships
-  Open Source
+Beyond traditional data engineering, I'm actively expanding into the next generation of intelligent data platforms by exploring **Retrieval-Augmented Generation (RAG)**, **Vector Databases**, **LLM-powered applications**, and **AI-driven data systems**.
+
+I enjoy solving large-scale data challenges involving ingestion, transformation, orchestration, optimization, governance, and analytics while continuously learning emerging technologies shaping the modern data ecosystem.
+
+---
+
+## What I Do
+
+- Design scalable **ETL & ELT pipelines**
+- Build cloud-native **Lakehouse Architectures**
+- Develop enterprise-grade **Data Engineering Projects**
+- Process large-scale datasets using **Apache Spark & PySpark**
+- Automate workflows across Azure, AWS, Microsoft Fabric & Databricks
+- Build interactive dashboards using **Power BI**
+- Apply SQL optimization and data modeling best practices
+- Continuously learn modern AI-powered data engineering technologies
+
+---
+
+## Core Engineering Focus
+
+| Domain | Focus |
+|---------|-------|
+| Data Engineering | ⭐⭐⭐⭐⭐ |
+| Big Data Engineering | ⭐⭐⭐⭐☆ |
+| Cloud Data Platforms | ⭐⭐⭐⭐☆ |
+| Data Analytics & BI | ⭐⭐⭐⭐☆ |
+| Distributed Processing | ⭐⭐⭐⭐☆ |
+| AI-Powered Data Systems | ⭐⭐⭐☆☆ |
+
+---
+
+## Engineering Philosophy
+
+```text
+Clean Data
+        ↓
+Reliable Pipelines
+        ↓
+Scalable Architecture
+        ↓
+Actionable Insights
+        ↓
+Business Impact
 ```
 
-</td>
+---
 
-</tr>
+## Currently Building
 
-</table>
+- Enterprise Data Engineering Projects
+- Medallion Lakehouse Architectures
+- Apache Spark & PySpark Pipelines
+- Microsoft Fabric Solutions
+- Azure Databricks Workflows
+- Snowflake Data Warehousing Projects
+- Real-Time Streaming Data Pipelines
+- AI + Data Engineering Integrations
 
 ---
 
-# Enterprise Capability Matrix
+## Open To
 
-<div align="center">
+✔ Data Engineering Roles
 
-| Engineering Domain | Technologies | Confidence |
-|:-------------------|:-------------|:----------:|
-| **Programming** | Python • SQL • PySpark • Spark SQL | ████████░░ |
-| **Data Engineering** | ETL • ELT • Data Modeling • Lakehouse • Warehousing | ████████░░ |
-| **Big Data** | Apache Spark • Delta Lake • Distributed Processing | ███████░░░ |
-| **Cloud Engineering** | Azure • Microsoft Fabric • AWS | ████████░░ |
-| **Analytics** | Power BI • Pandas • NumPy • SQL Analytics | ████████░░ |
-| **Version Control** | Git • GitHub • CI/CD Fundamentals | ███████░░░ |
-| **Modern Data Stack** | Databricks • Snowflake • dbt | ██████░░░░ |
-| **AI Engineering** | RAG • Vector DB • LLM Applications | █████░░░░░ |
+✔ Data Platform Engineering
 
-</div>
+✔ Cloud Data Engineering
 
----
+✔ Analytics Engineering
 
-# Engineering Architecture
+✔ Open Source Collaboration
 
-<div align="center">
+✔ Remote Opportunities
 
-```mermaid
-flowchart LR
+✔ Product-Based Companies
 
-A[Raw Data]
-
-A --> B[ETL / ELT]
-
-B --> C[Lakehouse]
-
-C --> D[Apache Spark]
-
-D --> E[Cloud Platform]
-
-E --> F[Analytics]
-
-F --> G[Artificial Intelligence]
-
-```
-
-</div>
-
----
-
-# Technology Ecosystem
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## Core Stack
-
-- Python
-- SQL
-- Apache Spark
-- PySpark
-- Microsoft Fabric
-- Azure
-- AWS
-- Power BI
-
-</td>
-
-<td width="50%">
-
-## Expanding Into
-
-- Databricks
-- Snowflake
-- dbt
-- Delta Lake
-- Unity Catalog
-- Lakeflow
-- Spark Streaming
-- AI Data Systems
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# Engineering Principles
-
-<div align="center">
-
-| Principle | Philosophy |
-|-----------|------------|
-| **Scalability** | Build systems that grow with data |
-| **Reliability** | Pipelines should be dependable and repeatable |
-| **Performance** | Optimize before scaling |
-| **Automation** | Reduce manual work through orchestration |
-| **Observability** | Every pipeline should be measurable |
-| **Continuous Learning** | The data ecosystem evolves every day |
-
-</div>
-
----
-
-# 2026 Engineering Roadmap
-
-<div align="center">
-
-```mermaid
-timeline
-
-title Engineering Growth Journey
-
-2025
-
-: Python
-: SQL
-: Azure
-: Microsoft Fabric
-
-2026
-
-: Apache Spark
-: PySpark
-: Databricks
-: Snowflake
-: dbt
-: Delta Lake
-
-Future
-
-: AI Data Engineering
-: Vector Search
-: RAG
-: Agentic AI
-: Real-Time Streaming
-
-```
-
-</div>
-
----
-
-# Current Mission
-
-<table>
-
-<tr>
-
-<td width="33%">
-
-### Learning
-
-- Databricks
-- Snowflake
-- dbt
-- Spark Streaming
-- Unity Catalog
-
-</td>
-
-<td width="33%">
-
-### Building
-
-- Enterprise Data Pipelines
-- Medallion Architecture
-- Fabric Projects
-- Spark Projects
-- Cloud Data Platforms
-
-</td>
-
-<td width="33%">
-
-### Exploring
-
-- Retrieval-Augmented Generation
-- Vector Databases
-- AI Agents
-- MCP
-- LLM Applications
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-### Open for Opportunities
-
-**Data Engineering • Analytics Engineering • Cloud Data Engineering • AI Data Platforms • Open Source Collaboration**
-
-</div>
+✔ Internships & Full-Time Roles
 
 ---
