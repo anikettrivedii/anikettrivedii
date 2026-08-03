@@ -59,3 +59,95 @@
 </div>
 
 ---
+
+
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hmb2hhNXJ5cnkzYW5jMzM4M2JnOGsyYWJkYWF1d2pzbXFhMGFydCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="35"> About Me
+
+<img align="right" alt="Data Engineering" width="380" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+
+### Building Modern Data Platforms for the AI Era
+
+I'm **Aniket Trivedi**, an **AI-Powered Data Engineer** passionate about designing scalable, cloud-native data platforms that transform raw data into reliable, analytics-ready assets.
+
+My primary focus is **Data Engineering**, where I build end-to-end ETL/ELT pipelines, modern Lakehouse architectures, distributed data processing solutions, and business intelligence workflows across **Microsoft Fabric, Azure, AWS, Databricks, Apache Spark, and Snowflake**.
+
+Beyond traditional data engineering, I'm actively expanding into the next generation of intelligent data platforms by exploring **Retrieval-Augmented Generation (RAG)**, **Vector Databases**, **LLM-powered applications**, and **AI-driven data systems**.
+
+I enjoy solving large-scale data challenges involving ingestion, transformation, orchestration, optimization, governance, and analytics while continuously learning emerging technologies shaping the modern data ecosystem.
+
+---
+
+## What I Do
+
+- Design scalable **ETL & ELT pipelines**
+- Build cloud-native **Lakehouse Architectures**
+- Develop enterprise-grade **Data Engineering Projects**
+- Process large-scale datasets using **Apache Spark & PySpark**
+- Automate workflows across Azure, AWS, Microsoft Fabric & Databricks
+- Build interactive dashboards using **Power BI**
+- Apply SQL optimization and data modeling best practices
+- Continuously learn modern AI-powered data engineering technologies
+
+---
+
+## Core Engineering Focus
+
+| Domain | Focus |
+|---------|-------|
+| Data Engineering | ⭐⭐⭐⭐⭐ |
+| Big Data Engineering | ⭐⭐⭐⭐☆ |
+| Cloud Data Platforms | ⭐⭐⭐⭐☆ |
+| Data Analytics & BI | ⭐⭐⭐⭐☆ |
+| Distributed Processing | ⭐⭐⭐⭐☆ |
+| AI-Powered Data Systems | ⭐⭐⭐☆☆ |
+
+---
+
+## Engineering Philosophy
+
+```text
+Clean Data
+        ↓
+Reliable Pipelines
+        ↓
+Scalable Architecture
+        ↓
+Actionable Insights
+        ↓
+Business Impact
+```
+
+---
+
+## Currently Building
+
+- Enterprise Data Engineering Projects
+- Medallion Lakehouse Architectures
+- Apache Spark & PySpark Pipelines
+- Microsoft Fabric Solutions
+- Azure Databricks Workflows
+- Snowflake Data Warehousing Projects
+- Real-Time Streaming Data Pipelines
+- AI + Data Engineering Integrations
+
+---
+
+## Open To
+
+✔ Data Engineering Roles
+
+✔ Data Platform Engineering
+
+✔ Cloud Data Engineering
+
+✔ Analytics Engineering
+
+✔ Open Source Collaboration
+
+✔ Remote Opportunities
+
+✔ Product-Based Companies
+
+✔ Internships & Full-Time Roles
+
+---
