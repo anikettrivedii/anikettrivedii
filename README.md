@@ -1,139 +1,274 @@
-<!-- ========================================================= -->
-<!--                  GITHUB PROFILE README                     -->
-<!--                  PART 1 — HERO SECTION                     -->
-<!-- ========================================================= -->
+<!-- ======================================================= -->
+<!--                    ABOUT ME                             -->
+<!-- ======================================================= -->
+
+<h2 align="center">
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ Engineering Identity
+</h2>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30,2&text=Aniket%20Trivedi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20•%20Cloud%20•%20Big%20Data%20•%20AI%20Systems&descAlignY=56&descSize=20"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Modern+Data+Platforms;Microsoft+Fabric+%7C+Azure+%7C+AWS;Apache+Spark+%7C+PySpark+%7C+Databricks;Snowflake+%7C+dbt+%7C+Power+BI;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+> **Building enterprise-scale data platforms that power analytics, AI, and intelligent decision-making.**
 
 </div>
 
 <br>
 
+<table>
+
+<tr>
+
+<td width="62%" valign="top">
+
+## About Me
+
+I'm **Aniket Trivedi**, an aspiring **AI-Powered Data Engineer** passionate about designing modern data ecosystems that transform raw information into reliable, scalable, and analytics-ready assets.
+
+My engineering interests revolve around **distributed data processing**, **Lakehouse architectures**, **cloud-native ETL pipelines**, **big data systems**, and the intersection of **Artificial Intelligence with Data Engineering**.
+
+I enjoy architecting end-to-end data platforms using **Microsoft Fabric**, **Azure**, **AWS**, **Apache Spark**, **PySpark**, and modern cloud technologies while continuously expanding into **Databricks**, **Snowflake**, **dbt**, **Streaming Systems**, and **LLM-powered Data Applications**.
+
+Rather than simply writing code, I enjoy designing systems that are scalable, maintainable, observable, and production-ready.
+
+</td>
+
+<td width="38%" valign="top">
+
+### Profile Snapshot
+
+```yaml
+Role:
+  AI Powered Data Engineer
+
+Location:
+  Gurgaon, India 🇮🇳
+
+Education:
+  B.Tech Computer Science (AI)
+
+Experience:
+  Data Engineering
+  Data Analytics
+
+Primary Focus:
+  Modern Data Platforms
+
+Target:
+  Product-Based Companies
+
+Open To:
+  Full-Time
+  Internships
+  Open Source
+```
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Enterprise Capability Matrix
+
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:anikettrivedi.work@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://x.com/YOUR_X_USERNAME">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
+| Engineering Domain | Technologies | Confidence |
+|:-------------------|:-------------|:----------:|
+| **Programming** | Python • SQL • PySpark • Spark SQL | ████████░░ |
+| **Data Engineering** | ETL • ELT • Data Modeling • Lakehouse • Warehousing | ████████░░ |
+| **Big Data** | Apache Spark • Delta Lake • Distributed Processing | ███████░░░ |
+| **Cloud Engineering** | Azure • Microsoft Fabric • AWS | ████████░░ |
+| **Analytics** | Power BI • Pandas • NumPy • SQL Analytics | ████████░░ |
+| **Version Control** | Git • GitHub • CI/CD Fundamentals | ███████░░░ |
+| **Modern Data Stack** | Databricks • Snowflake • dbt | ██████░░░░ |
+| **AI Engineering** | RAG • Vector DB • LLM Applications | █████░░░░░ |
 
 </div>
 
 ---
 
-<div align="center">
-
-![](https://img.shields.io/badge/B.Tech-CSE(AI)-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
-
-![](https://img.shields.io/badge/Data%20Engineering-Enterprise-5B21B6?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge)
-
-![](https://img.shields.io/badge/Gurgaon-Delhi--NCR-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-![](https://img.shields.io/badge/Cloud-Microsoft%20Fabric%20%7C%20Azure%20%7C%20AWS-4F46E5?style=for-the-badge)
-
-</div>
-
-<br>
+# Engineering Architecture
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED"/>
+```mermaid
+flowchart LR
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=6D28D9"/>
+A[Raw Data]
 
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge&color=4F46E5"/>
+A --> B[ETL / ELT]
 
-<img src="https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME?style=for-the-badge&color=8B5CF6"/>
+B --> C[Lakehouse]
 
-</div>
+C --> D[Apache Spark]
 
----
+D --> E[Cloud Platform]
 
-<div align="center">
+E --> F[Analytics]
 
-# Data Engineer | Building Modern Data Platforms for AI
+F --> G[Artificial Intelligence]
 
-*"Transforming raw data into scalable, intelligent, and production-ready data ecosystems through modern cloud technologies, distributed computing, and AI-driven engineering."*
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   Python   •   SQL   •   Apache Spark   •   PySpark   •   Delta Lake         │
-│                                                                              │
-│   Microsoft Fabric   •   Azure   •   AWS   •   Databricks   •   Snowflake    │
-│                                                                              │
-│   ETL / ELT   •   Lakehouse   •   Data Warehousing   •   Power BI            │
-│                                                                              │
-│   RAG   •   Vector Databases   •   LLM Applications   •   AI Data Systems    │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
+# Technology Ecosystem
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## Core Stack
+
+- Python
+- SQL
+- Apache Spark
+- PySpark
+- Microsoft Fabric
+- Azure
+- AWS
+- Power BI
+
+</td>
+
+<td width="50%">
+
+## Expanding Into
+
+- Databricks
+- Snowflake
+- dbt
+- Delta Lake
+- Unity Catalog
+- Lakeflow
+- Spark Streaming
+- AI Data Systems
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Engineering Principles
+
 <div align="center">
 
-### Engineering Mission
-
-> **Design. Build. Scale. Automate. Optimize.**
-
-Building cloud-native data platforms that enable organizations to convert billions of records into reliable, actionable intelligence.
+| Principle | Philosophy |
+|-----------|------------|
+| **Scalability** | Build systems that grow with data |
+| **Reliability** | Pipelines should be dependable and repeatable |
+| **Performance** | Optimize before scaling |
+| **Automation** | Reduce manual work through orchestration |
+| **Observability** | Every pipeline should be measurable |
+| **Continuous Learning** | The data ecosystem evolves every day |
 
 </div>
 
 ---
 
+# 2026 Engineering Roadmap
+
 <div align="center">
 
-| Focus | Current Direction |
-|:------:|:------------------|
-| 🟣 **Primary Domain** | Modern Data Engineering |
-| 🔵 **Specialization** | Cloud Data Platforms |
-| 🟣 **Big Data** | Apache Spark • PySpark |
-| 🔵 **Cloud** | Microsoft Fabric • Azure • AWS |
-| 🟣 **Modern Stack** | Databricks • Snowflake • dbt |
-| 🔵 **AI** | RAG • Vector Search • LLM Systems |
+```mermaid
+timeline
+
+title Engineering Growth Journey
+
+2025
+
+: Python
+: SQL
+: Azure
+: Microsoft Fabric
+
+2026
+
+: Apache Spark
+: PySpark
+: Databricks
+: Snowflake
+: dbt
+: Delta Lake
+
+Future
+
+: AI Data Engineering
+: Vector Search
+: RAG
+: Agentic AI
+: Real-Time Streaming
+
+```
 
 </div>
 
 ---
 
-<br>
+# Current Mission
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
+<table>
+
+<tr>
+
+<td width="33%">
+
+### Learning
+
+- Databricks
+- Snowflake
+- dbt
+- Spark Streaming
+- Unity Catalog
+
+</td>
+
+<td width="33%">
+
+### Building
+
+- Enterprise Data Pipelines
+- Medallion Architecture
+- Fabric Projects
+- Spark Projects
+- Cloud Data Platforms
+
+</td>
+
+<td width="33%">
+
+### Exploring
+
+- Retrieval-Augmented Generation
+- Vector Databases
+- AI Agents
+- MCP
+- LLM Applications
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+### Open for Opportunities
+
+**Data Engineering • Analytics Engineering • Cloud Data Engineering • AI Data Platforms • Open Source Collaboration**
+
+</div>
 
 ---
