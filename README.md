@@ -188,3 +188,93 @@ Rather than building isolated ETL pipelines, I design **complete data ecosystems
 </div>
 
 ---
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:A855F7"/>
+
+# <img src="https://img.icons8.com/fluency/48/dashboard-layout.png" width="34"/> Engineering Snapshot
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+## Professional Identity
+
+I'm building my career around **Modern Data Engineering**, combining cloud-native architectures, distributed data processing, and AI-ready data platforms.
+
+Instead of learning isolated tools, I focus on designing complete **production-grade data ecosystems** that are scalable, maintainable, and ready for intelligent applications.
+
+<br>
+
+### Engineering DNA
+
+| | |
+|:--|:--|
+| 🎯 **Primary Domain** | Modern Data Engineering |
+| ☁ **Cloud** | Azure • AWS • Microsoft Fabric |
+| 🔥 **Big Data** | Apache Spark • PySpark • Databricks |
+| 🏗 **Architecture** | Lakehouse • Medallion • ETL / ELT |
+| 🤖 **AI Engineering** | RAG • LLMs • Vector Databases |
+| 📊 **Analytics** | SQL • Power BI • Data Modeling |
+| 🐍 **Programming** | Python • SQL |
+| 🚀 **Current Goal** | AI-Ready Enterprise Data Platforms |
+
+<br>
+
+> **I believe good Data Engineering is invisible—reliable systems should simply work, scale, and enable better decisions.**
+
+</td>
+
+<td width="45%" align="center">
+
+<img width="95%" src="https://raw.githubusercontent.com/Nirzak-Stark/Nirzak-Stark/main/assets/developer.svg"/>
+
+<br><br>
+
+### Technology Ecosystem
+
+<img src="https://skillicons.dev/icons?i=python,azure,aws,docker,git"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft_Fabric-635BFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+
+<br><br>
+
+### Engineering Principles
+
+🟣 Build for Scale
+
+🔵 Automate Everything
+
+🟣 Keep It Simple
+
+🔵 AI-First Mindset
+
+🟣 Continuous Learning
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+### **Engineering is not about moving data. It's about building reliable systems that enable intelligent decisions.**
+
+</div>
+
+---
