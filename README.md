@@ -229,7 +229,7 @@ Instead of learning isolated tools, I focus on designing complete **production-g
 
 <td width="45%" align="center">
 
-<img width="95%" src="https://raw.githubusercontent.com/Nirzak-Stark/Nirzak-Stark/main/assets/developer.svg"/>
+<img width="90%" src="https://github.githubassets.com/images/modules/site/home-campaign/hero-drone.webp"/>
 
 <br><br>
 
