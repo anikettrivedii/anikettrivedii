@@ -105,32 +105,74 @@ Engineering scalable data platforms that power analytics, AI, and intelligent de
 
 <td width="58%" valign="top">
 
-## Engineering Data for the AI Era
+## Engineering Modern Data for the AI Era
 
-I'm an **AI Data Engineer** passionate about building **modern cloud-native data platforms** that transform raw data into reliable, analytics-ready, and AI-ready assets.
+I'm an **AI Data Engineer** focused on building **cloud-native data platforms** that transform raw information into trusted, analytics-ready, and AI-powered business assets.
 
-Instead of only building ETL pipelines, my focus is creating **complete data ecosystems**—from ingestion and distributed processing to modern Lakehouse architectures and intelligent AI applications.
+Rather than building isolated ETL pipelines, I design **complete data ecosystems**—covering ingestion, orchestration, distributed processing, Lakehouse architecture, analytics, and intelligent AI applications.
 
-### Core Strengths
+### What Defines My Work
 
-- ⚡ Enterprise ETL / ELT Pipelines
-- ☁️ Cloud-native Data Platforms
-- 🏗 Modern Lakehouse Architecture
-- 🔥 Apache Spark & Distributed Processing
-- 🤖 AI Data Engineering
-- 📊 Analytics Engineering
+<table>
+<tr>
+<td>⚡ Enterprise ETL / ELT</td>
+<td>☁️ Cloud Data Platforms</td>
+</tr>
 
-> **Mission:** Build scalable data platforms that power modern analytics today and intelligent AI systems tomorrow.
+<tr>
+<td>🏗️ Lakehouse Architecture</td>
+<td>🔥 Apache Spark</td>
+</tr>
+
+<tr>
+<td>📊 Analytics Engineering</td>
+<td>🤖 AI Data Engineering</td>
+</tr>
+
+<tr>
+<td>🧠 Generative AI</td>
+<td>🚀 End-to-End Projects</td>
+</tr>
+
+</table>
+
+<br>
+
+> ### **Engineering Philosophy**
+
+> Build systems that are **simple to operate, scalable by design, and intelligent by default.**
+
+<br>
+
+> ### **Long-Term Vision**
+
+> Help build the next generation of **AI-native data platforms** where Data Engineering, Cloud Computing, and Generative AI work together seamlessly.
 
 </td>
 
 <td width="42%" align="center">
 
-<img width="95%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
+<img width="92%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2400&pause=800&color=8B5CF6&center=true&vCenter=true&width=330&height=170&lines=Lakehouse+Architecture;Enterprise+Data+Engineering;Apache+Spark;Databricks;Microsoft+Fabric;Cloud+ETL;Generative+AI;RAG;Vector+Databases"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=21&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=340&height=240&lines=AI+Data+Engineering;Microsoft+Fabric;Lakehouse+Architecture;Apache+Spark;Databricks;Cloud+Data+Platforms;Generative+AI;RAG;Vector+Databases;Always+Building."/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Microsoft_Fabric-635BFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
 
 </td>
 
@@ -139,162 +181,10 @@ Instead of only building ETL pipelines, my focus is creating **complete data eco
 
 <br>
 
-## 🚀 Engineering Snapshot
-
 <div align="center">
 
-| 💼 Role | ☁ Cloud | 🔥 Big Data |
-|:--:|:--:|:--:|
-| **AI Data Engineer** | **Azure • AWS • Fabric** | **Spark • PySpark • Databricks** |
-
-| 📊 Analytics | 🤖 AI Engineering | 🐍 Languages |
-|:--:|:--:|:--:|
-| **SQL • Power BI** | **RAG • LLMs • Vector DB** | **Python • SQL** |
+### **Building reliable data platforms today. Engineering intelligent AI systems tomorrow.**
 
 </div>
 
-<br>
-
-## ⚙️ What I Build
-
-<table>
-<tr>
-
-<td width="33%">
-
-### ⚡ Data Pipelines
-
-Enterprise ETL / ELT
-
-Cloud Data Integration
-
-Workflow Automation
-
-</td>
-
-<td width="33%">
-
-### ☁️ Data Platforms
-
-Lakehouse Architecture
-
-Distributed Processing
-
-Cloud-native Infrastructure
-
-</td>
-
-<td width="33%">
-
-### 🤖 AI Systems
-
-RAG Pipelines
-
-LLM Applications
-
-Vector Databases
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%">
-
-### 📊 Analytics
-
-Business Intelligence
-
-Data Modeling
-
-SQL Engineering
-
-</td>
-
-<td width="33%">
-
-### 🔥 Big Data
-
-Apache Spark
-
-PySpark
-
-Delta Lake
-
-</td>
-
-<td width="33%">
-
-### 🚀 Projects
-
-Production-grade Pipelines
-
-End-to-End Platforms
-
-Real-world Architectures
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-## 🎯 Engineering Philosophy
-
-<div align="center">
-
-```text
-Raw Data
-    │
-    ▼
-Data Ingestion
-    │
-    ▼
-Data Engineering
-    │
-    ▼
-Lakehouse Architecture
-    │
-    ▼
-Analytics
-    │
-    ▼
-Artificial Intelligence
-```
-
-</div>
-
-> **Great AI isn't built on models alone. It begins with world-class data engineering.**
-
-<br>
-
-## 🌱 Current Focus
-
-```yaml
-learning:
-  - Advanced Apache Spark
-  - Databricks Platform Engineering
-  - Lakehouse Optimization
-  - Agentic AI Systems
-
-building:
-  - Enterprise Data Pipelines
-  - AI-Ready Data Platforms
-  - End-to-End Cloud Projects
-
-exploring:
-  - Retrieval-Augmented Generation (RAG)
-  - Vector Databases
-  - MCP
-  - AI Agents
-  - LLM Application Development
-
-open_to:
-  - AI Data Engineering
-  - Data Engineering
-  - Cloud Data Platforms
-  - Platform Engineering
-```
+---
