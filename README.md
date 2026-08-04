@@ -97,3 +97,115 @@ Engineering scalable data platforms that power analytics, AI, and intelligent de
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:A855F7&section=footer"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:A855F7"/>
+
+# <img src="https://img.icons8.com/fluency/32/source-code.png" width="28"/> About Me
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+## Engineering Data for the AI Era
+
+I'm a **Computer Science (AI)** graduate passionate about designing **scalable, cloud-native data platforms** that transform raw data into trusted, analytics-ready assets.
+
+Over the past year, I've built hands-on expertise across the modern **Data Engineering ecosystem**, focusing on **Lakehouse Architectures, Distributed Data Processing, Cloud ETL Pipelines, and AI-ready Data Platforms**.
+
+Today, my work extends beyond traditional Data Engineering into **AI Data Engineering**, where I'm exploring **Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), Vector Databases, AI Agents, and Intelligent Data Systems**.
+
+My goal is simple:
+
+> **Build reliable data platforms that power analytics today and intelligent AI applications tomorrow.**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2500&pause=900&color=8B5CF6&center=true&vCenter=true&width=320&height=220&lines=Data+Engineering;Cloud+Architecture;Lakehouse+Design;Apache+Spark;Microsoft+Fabric;Databricks;Generative+AI;RAG;LLMs"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Engineering Snapshot
+
+| | |
+|:---|:---|
+| **Current Role** | AI Data Engineer |
+| **Primary Domain** | Modern Data Engineering |
+| **Specialization** | Cloud ETL • Lakehouse • Distributed Data Processing |
+| **Cloud Platforms** | Microsoft Fabric • Azure • AWS |
+| **Big Data Stack** | Apache Spark • PySpark • Databricks • Delta Lake |
+| **Analytics** | SQL • Power BI • Data Modeling |
+| **AI Engineering** | RAG • LLMs • Vector Databases • AI Agents |
+| **Programming** | Python • SQL |
+| **Current Mission** | Building AI-Ready Enterprise Data Platforms |
+
+---
+
+## What I Build
+
+- Enterprise-scale ETL / ELT Pipelines
+- Modern Lakehouse Architectures
+- Cloud-native Data Platforms
+- Batch & Distributed Data Processing Systems
+- Analytics & Business Intelligence Solutions
+- AI-ready Data Infrastructure
+- End-to-End Data Engineering Projects
+
+---
+
+## Engineering Philosophy
+
+```text
+Raw Data
+      │
+      ▼
+Data Ingestion
+      │
+      ▼
+Data Engineering
+      │
+      ▼
+Analytics
+      │
+      ▼
+Artificial Intelligence
+```
+
+> **Great AI starts with great data engineering.**
+
+---
+
+## Currently Focused On
+
+```yaml
+learning:
+  - Advanced Apache Spark
+  - Databricks Data Engineering
+  - AI Data Engineering
+  - Agentic AI Systems
+
+building:
+  - Enterprise Lakehouse Architectures
+  - End-to-End Data Engineering Projects
+  - AI-Powered Data Platforms
+
+exploring:
+  - Retrieval-Augmented Generation (RAG)
+  - Vector Databases
+  - MCP
+  - AI Agents
+  - LLM Application Development
+
+open_to:
+  - Data Engineering
+  - AI Data Engineering
+  - Cloud Data Platforms
+  - Platform Engineering
+```
